@@ -3,7 +3,6 @@ using GitHubRaport.Infrastructure;
 using GitHubRaport.Models;
 using GitHubRaport.DataBase;
 using GitHubRaport.Errors;
-
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
